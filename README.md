@@ -12,7 +12,7 @@ Please Give a ⭐ if you like this repo and also try following me for more best 
 ## Mapping
 [Deploy to Heroku 🗳](https://heroku.com/deploy?template=https://github.com/HTCinemaxx/TG-RENAMER-BOT#deploy-to-heroku-)
 
-[Bot Features 🔥](https://github.com/Ns-Bots/TG-RENAMER-BOT#bot-features-)
+[Bot Features 🔥](https://github.com/HTCinemaxx/TG-RENAMER-BOT#bot-features-)
 
 [Required Vars 💥](https://github.com/Ns-Bots/TG-RENAMER-BOT#required-vars-)
 
@@ -29,7 +29,7 @@ Please Give a ⭐ if you like this repo and also try following me for more best 
 ## Deploy to Heroku 🗳
 Press the following button to deploy in heroku.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ns-Bots/TG-RENAMER-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HTCinemaxx/TG-RENAMER-BOT)
 
 ## WARNING ⚠️
 Direct Deploy via button not working?? Suspension issue??
